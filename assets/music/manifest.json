@@ -1,0 +1,740 @@
+[
+  {
+    "category": "brand",
+    "name": "Marcus Anderson logo long black1.png",
+    "file": "marcus-anderson-logo-long-black1.png",
+    "path": "assets/music/marcus-anderson-logo-long-black1.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1535564698387-SMIS86OO40MRYW8G171Z/Marcus+Anderson+logo+long+black1.png?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1535564698387-SMIS86OO40MRYW8G171Z/Marcus+Anderson+logo+long+black1.png?format=1000w",
+    "bytes": 48298
+  },
+  {
+    "category": "brand",
+    "name": "MArcus Anderson logo favicon.jpg",
+    "file": "marcus-anderson-logo-favicon.jpg",
+    "path": "assets/music/marcus-anderson-logo-favicon.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1535596474566-P54L4BD35HWGR1L96MGV/MArcus+Anderson+logo+favicon.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1535596474566-P54L4BD35HWGR1L96MGV/MArcus+Anderson+logo+favicon.jpg?format=900w",
+    "bytes": 17856
+  },
+  {
+    "category": "portrait",
+    "name": "20191029_MA-216 cropped.jpg",
+    "file": "20191029-ma-216-cropped.jpg",
+    "path": "assets/music/20191029-ma-216-cropped.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1577953575040-X01GEU165SYV9DSH2XU5/20191029_MA-216+cropped.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1577953575040-X01GEU165SYV9DSH2XU5/20191029_MA-216+cropped.jpg?format=1400w",
+    "bytes": 295226
+  },
+  {
+    "category": "portrait",
+    "name": "20191029_MA-216 cropped.jpg",
+    "file": "20191029-ma-216-cropped-2.jpg",
+    "path": "assets/music/20191029-ma-216-cropped-2.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1577953568654-A1AERBZB038J62KPCHZF/20191029_MA-216+cropped.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1577953568654-A1AERBZB038J62KPCHZF/20191029_MA-216+cropped.jpg?format=1400w",
+    "bytes": 295226
+  },
+  {
+    "category": "portrait",
+    "name": "20191029_MA-53 edited.jpg",
+    "file": "20191029-ma-53-edited.jpg",
+    "path": "assets/music/20191029-ma-53-edited.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1572605996234-T2S5KBGK6ML3C4AX7IGY/20191029_MA-53+edited.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1572605996234-T2S5KBGK6ML3C4AX7IGY/20191029_MA-53+edited.jpg?format=1400w",
+    "bytes": 226120
+  },
+  {
+    "category": "portrait",
+    "name": "20191029_MA-421.jpg",
+    "file": "20191029-ma-421.jpg",
+    "path": "assets/music/20191029-ma-421.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1572605583199-QXE2OCMJYCQLI2SZGWCU/20191029_MA-421.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1572605583199-QXE2OCMJYCQLI2SZGWCU/20191029_MA-421.jpg?format=1400w",
+    "bytes": 242130
+  },
+  {
+    "category": "portrait",
+    "name": "LRM_EXPORT_83242505991002_20191006_194759886.jpeg",
+    "file": "lrm-export-83242505991002-20191006-194759886.jpg",
+    "path": "assets/music/lrm-export-83242505991002-20191006-194759886.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1570425384767-8P7NF5X7Y2ZWYHO98N73/LRM_EXPORT_83242505991002_20191006_194759886.jpeg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1570425384767-8P7NF5X7Y2ZWYHO98N73/LRM_EXPORT_83242505991002_20191006_194759886.jpeg?format=1400w",
+    "bytes": 329514
+  },
+  {
+    "category": "portrait",
+    "name": "LRM_EXPORT_83242505991002_20191006_194759886.jpeg",
+    "file": "lrm-export-83242505991002-20191006-194759886-2.jpg",
+    "path": "assets/music/lrm-export-83242505991002-20191006-194759886-2.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1570425385488-KXY0IODTTQYMNLRD2TQV/LRM_EXPORT_83242505991002_20191006_194759886.jpeg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1570425385488-KXY0IODTTQYMNLRD2TQV/LRM_EXPORT_83242505991002_20191006_194759886.jpeg?format=1400w",
+    "bytes": 329514
+  },
+  {
+    "category": "latest",
+    "name": "Screen+Shot+2020-10-12+at+9.49.43+am.jpg",
+    "file": "screen-shot-2020-10-12-at-9-49-43-am.jpg",
+    "path": "assets/music/screen-shot-2020-10-12-at-9-49-43-am.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1602492684048-45XGEJLIIQGA0ZJYENN9/Screen%2BShot%2B2020-10-12%2Bat%2B9.49.43%2Bam.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1602492684048-45XGEJLIIQGA0ZJYENN9/Screen%2BShot%2B2020-10-12%2Bat%2B9.49.43%2Bam.jpg?format=1200w",
+    "bytes": 47718
+  },
+  {
+    "category": "latest",
+    "name": "image-asset.jpeg",
+    "file": "image-asset-1585456226556-gx4dguwp7w.jpg",
+    "path": "assets/music/image-asset-1585456226556-gx4dguwp7w.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1585456226556-GX4DGUWP7WEJJ0LPRWVS/image-asset.jpeg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1585456226556-GX4DGUWP7WEJJ0LPRWVS/image-asset.jpeg?format=1200w",
+    "bytes": 63742
+  },
+  {
+    "category": "latest",
+    "name": "image-asset.jpeg",
+    "file": "image-asset-1587177989141-l1d05brde9.jpg",
+    "path": "assets/music/image-asset-1587177989141-l1d05brde9.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1587177989141-L1D05BRDE9YNZ1413QDF/image-asset.jpeg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1587177989141-L1D05BRDE9YNZ1413QDF/image-asset.jpeg?format=1200w",
+    "bytes": 89534
+  },
+  {
+    "category": "latest",
+    "name": "image-asset.jpeg",
+    "file": "image-asset-1588135070434-h4pi7hkl24.jpg",
+    "path": "assets/music/image-asset-1588135070434-h4pi7hkl24.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1588135070434-H4PI7HKL241NZ71EHKH5/image-asset.jpeg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1588135070434-H4PI7HKL241NZ71EHKH5/image-asset.jpeg?format=1200w",
+    "bytes": 84968
+  },
+  {
+    "category": "latest",
+    "name": "Screen+Shot+2018-08-30+at+3.09.28+am.jpg",
+    "file": "screen-shot-2018-08-30-at-3-09-28-am.jpg",
+    "path": "assets/music/screen-shot-2018-08-30-at-3-09-28-am.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1585455732744-CJHCL6THQZMHBSD563I7/Screen%2BShot%2B2018-08-30%2Bat%2B3.09.28%2Bam.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1585455732744-CJHCL6THQZMHBSD563I7/Screen%2BShot%2B2018-08-30%2Bat%2B3.09.28%2Bam.jpg?format=1200w",
+    "bytes": 36706
+  },
+  {
+    "category": "latest",
+    "name": "Screen Shot 2018-08-30 at 3.05.16 am.png",
+    "file": "screen-shot-2018-08-30-at-3-05-16-am.png",
+    "path": "assets/music/screen-shot-2018-08-30-at-3-05-16-am.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1585455299886-84S1NKUB333SZKEPH6TV/Screen+Shot+2018-08-30+at+3.05.16+am.png?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1585455299886-84S1NKUB333SZKEPH6TV/Screen+Shot+2018-08-30+at+3.05.16+am.png?format=1200w",
+    "bytes": 585474
+  },
+  {
+    "category": "latest",
+    "name": "Screen Shot 2018-08-30 at 2.56.08 am.png",
+    "file": "screen-shot-2018-08-30-at-2-56-08-am.png",
+    "path": "assets/music/screen-shot-2018-08-30-at-2-56-08-am.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1585455214716-RYT85F4ENKFZNC96JJ50/Screen+Shot+2018-08-30+at+2.56.08+am.png?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1585455214716-RYT85F4ENKFZNC96JJ50/Screen+Shot+2018-08-30+at+2.56.08+am.png?format=1200w",
+    "bytes": 448070
+  },
+  {
+    "category": "latest",
+    "name": "Screen+Shot+2018-08-30+at+2.53.53+am.jpg",
+    "file": "screen-shot-2018-08-30-at-2-53-53-am.jpg",
+    "path": "assets/music/screen-shot-2018-08-30-at-2-53-53-am.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1585454349867-UESCRAITPFGBJX3SGZSG/Screen%2BShot%2B2018-08-30%2Bat%2B2.53.53%2Bam.jpg?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1585454349867-UESCRAITPFGBJX3SGZSG/Screen%2BShot%2B2018-08-30%2Bat%2B2.53.53%2Bam.jpg?format=1200w",
+    "bytes": 645698
+  },
+  {
+    "category": "latest",
+    "name": "Screen+Shot+2018-08-30+at+2.52.45+am.jpg",
+    "file": "screen-shot-2018-08-30-at-2-52-45-am.jpg",
+    "path": "assets/music/screen-shot-2018-08-30-at-2-52-45-am.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1585456288601-GLKC1AMMLFSE0BZU5PXS/Screen%2BShot%2B2018-08-30%2Bat%2B2.52.45%2Bam.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1585456288601-GLKC1AMMLFSE0BZU5PXS/Screen%2BShot%2B2018-08-30%2Bat%2B2.52.45%2Bam.jpg?format=1200w",
+    "bytes": 127734
+  },
+  {
+    "category": "latest",
+    "name": "Screen+Shot+2018-08-30+at+2.18.42+am.jpg",
+    "file": "screen-shot-2018-08-30-at-2-18-42-am.jpg",
+    "path": "assets/music/screen-shot-2018-08-30-at-2-18-42-am.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1585456311324-1IK6673CBTB9CSRDT3CE/Screen%2BShot%2B2018-08-30%2Bat%2B2.18.42%2Bam.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1585456311324-1IK6673CBTB9CSRDT3CE/Screen%2BShot%2B2018-08-30%2Bat%2B2.18.42%2Bam.jpg?format=1200w",
+    "bytes": 64190
+  },
+  {
+    "category": "score-happiness",
+    "name": "Happiness - Marcus Anderson (full score)_Page_14.jpg",
+    "file": "happiness-marcus-anderson-full-score-page-14.jpg",
+    "path": "assets/music/happiness-marcus-anderson-full-score-page-14.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558249039-UDO62ERIJ0QS6OL1UJ59/Happiness+-+Marcus+Anderson+%28full+score%29_Page_14.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558249039-UDO62ERIJ0QS6OL1UJ59/Happiness+-+Marcus+Anderson+%28full+score%29_Page_14.jpg?format=1300w",
+    "bytes": 124594
+  },
+  {
+    "category": "score-happiness",
+    "name": "Happiness - Marcus Anderson (full score)_Page_13.jpg",
+    "file": "happiness-marcus-anderson-full-score-page-13.jpg",
+    "path": "assets/music/happiness-marcus-anderson-full-score-page-13.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558246829-F9W0JZGXWV76MXXXIVTC/Happiness+-+Marcus+Anderson+%28full+score%29_Page_13.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558246829-F9W0JZGXWV76MXXXIVTC/Happiness+-+Marcus+Anderson+%28full+score%29_Page_13.jpg?format=1300w",
+    "bytes": 65646
+  },
+  {
+    "category": "score-happiness",
+    "name": "Happiness - Marcus Anderson (full score)_Page_12.jpg",
+    "file": "happiness-marcus-anderson-full-score-page-12.jpg",
+    "path": "assets/music/happiness-marcus-anderson-full-score-page-12.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558241868-JHMRQ5ZVU9A13OGBIQSF/Happiness+-+Marcus+Anderson+%28full+score%29_Page_12.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558241868-JHMRQ5ZVU9A13OGBIQSF/Happiness+-+Marcus+Anderson+%28full+score%29_Page_12.jpg?format=1300w",
+    "bytes": 114646
+  },
+  {
+    "category": "score-happiness",
+    "name": "Happiness - Marcus Anderson (full score)_Page_11.jpg",
+    "file": "happiness-marcus-anderson-full-score-page-11.jpg",
+    "path": "assets/music/happiness-marcus-anderson-full-score-page-11.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558241218-SQZ4KE5VO7AGI1CF2MF7/Happiness+-+Marcus+Anderson+%28full+score%29_Page_11.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558241218-SQZ4KE5VO7AGI1CF2MF7/Happiness+-+Marcus+Anderson+%28full+score%29_Page_11.jpg?format=1300w",
+    "bytes": 119052
+  },
+  {
+    "category": "score-happiness",
+    "name": "Happiness - Marcus Anderson (full score)_Page_10.jpg",
+    "file": "happiness-marcus-anderson-full-score-page-10.jpg",
+    "path": "assets/music/happiness-marcus-anderson-full-score-page-10.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558236528-K4Y8WGCSHZQA9DAN6PR9/Happiness+-+Marcus+Anderson+%28full+score%29_Page_10.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558236528-K4Y8WGCSHZQA9DAN6PR9/Happiness+-+Marcus+Anderson+%28full+score%29_Page_10.jpg?format=1300w",
+    "bytes": 112234
+  },
+  {
+    "category": "score-happiness",
+    "name": "Happiness - Marcus Anderson (full score)_Page_09.jpg",
+    "file": "happiness-marcus-anderson-full-score-page-09.jpg",
+    "path": "assets/music/happiness-marcus-anderson-full-score-page-09.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558233601-I1LIK48I07KEJF9W8F5M/Happiness+-+Marcus+Anderson+%28full+score%29_Page_09.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558233601-I1LIK48I07KEJF9W8F5M/Happiness+-+Marcus+Anderson+%28full+score%29_Page_09.jpg?format=1300w",
+    "bytes": 114602
+  },
+  {
+    "category": "score-happiness",
+    "name": "Happiness - Marcus Anderson (full score)_Page_08.jpg",
+    "file": "happiness-marcus-anderson-full-score-page-08.jpg",
+    "path": "assets/music/happiness-marcus-anderson-full-score-page-08.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558227325-0B16UE3GA79EX1TEXVUR/Happiness+-+Marcus+Anderson+%28full+score%29_Page_08.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558227325-0B16UE3GA79EX1TEXVUR/Happiness+-+Marcus+Anderson+%28full+score%29_Page_08.jpg?format=1300w",
+    "bytes": 131072
+  },
+  {
+    "category": "score-happiness",
+    "name": "Happiness - Marcus Anderson (full score)_Page_07.jpg",
+    "file": "happiness-marcus-anderson-full-score-page-07.jpg",
+    "path": "assets/music/happiness-marcus-anderson-full-score-page-07.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558225606-UPYTNQ11G4P7WR518WLB/Happiness+-+Marcus+Anderson+%28full+score%29_Page_07.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558225606-UPYTNQ11G4P7WR518WLB/Happiness+-+Marcus+Anderson+%28full+score%29_Page_07.jpg?format=1300w",
+    "bytes": 128544
+  },
+  {
+    "category": "score-happiness",
+    "name": "Happiness - Marcus Anderson (full score)_Page_06.jpg",
+    "file": "happiness-marcus-anderson-full-score-page-06.jpg",
+    "path": "assets/music/happiness-marcus-anderson-full-score-page-06.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558221521-IUIKH2DFHK0NV9BQ4AA7/Happiness+-+Marcus+Anderson+%28full+score%29_Page_06.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558221521-IUIKH2DFHK0NV9BQ4AA7/Happiness+-+Marcus+Anderson+%28full+score%29_Page_06.jpg?format=1300w",
+    "bytes": 117464
+  },
+  {
+    "category": "score-happiness",
+    "name": "Happiness - Marcus Anderson (full score)_Page_05.jpg",
+    "file": "happiness-marcus-anderson-full-score-page-05.jpg",
+    "path": "assets/music/happiness-marcus-anderson-full-score-page-05.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558220542-B78KFMY4LW52D9OWXGMJ/Happiness+-+Marcus+Anderson+%28full+score%29_Page_05.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558220542-B78KFMY4LW52D9OWXGMJ/Happiness+-+Marcus+Anderson+%28full+score%29_Page_05.jpg?format=1300w",
+    "bytes": 137358
+  },
+  {
+    "category": "score-happiness",
+    "name": "Happiness - Marcus Anderson (full score)_Page_03.jpg",
+    "file": "happiness-marcus-anderson-full-score-page-03.jpg",
+    "path": "assets/music/happiness-marcus-anderson-full-score-page-03.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558216527-MK4V5A30KCY14K6GFXME/Happiness+-+Marcus+Anderson+%28full+score%29_Page_03.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558216527-MK4V5A30KCY14K6GFXME/Happiness+-+Marcus+Anderson+%28full+score%29_Page_03.jpg?format=1300w",
+    "bytes": 84794
+  },
+  {
+    "category": "score-happiness",
+    "name": "Happiness - Marcus Anderson (full score)_Page_04.jpg",
+    "file": "happiness-marcus-anderson-full-score-page-04.jpg",
+    "path": "assets/music/happiness-marcus-anderson-full-score-page-04.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558217311-ORJBMJ4PURF4YD25D2QM/Happiness+-+Marcus+Anderson+%28full+score%29_Page_04.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558217311-ORJBMJ4PURF4YD25D2QM/Happiness+-+Marcus+Anderson+%28full+score%29_Page_04.jpg?format=1300w",
+    "bytes": 116646
+  },
+  {
+    "category": "score-happiness",
+    "name": "Happiness - Marcus Anderson (full score)_Page_02.jpg",
+    "file": "happiness-marcus-anderson-full-score-page-02.jpg",
+    "path": "assets/music/happiness-marcus-anderson-full-score-page-02.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558212691-LFREYH1FLD42485XBOWZ/Happiness+-+Marcus+Anderson+%28full+score%29_Page_02.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558212691-LFREYH1FLD42485XBOWZ/Happiness+-+Marcus+Anderson+%28full+score%29_Page_02.jpg?format=1300w",
+    "bytes": 107490
+  },
+  {
+    "category": "score-happiness",
+    "name": "Happiness - Marcus Anderson (full score)_Page_01.jpg",
+    "file": "happiness-marcus-anderson-full-score-page-01.jpg",
+    "path": "assets/music/happiness-marcus-anderson-full-score-page-01.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558212543-L5M5J646XYEAC1EWIMS8/Happiness+-+Marcus+Anderson+%28full+score%29_Page_01.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674558212543-L5M5J646XYEAC1EWIMS8/Happiness+-+Marcus+Anderson+%28full+score%29_Page_01.jpg?format=1300w",
+    "bytes": 87098
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_21.jpg",
+    "file": "never-far-from-home-somos-tierra-page-21.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-21.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557980838-G98M051Z0EWP1WZF9YAG/Never+far+from+home+%28Somos+Tierra%29_Page_21.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557980838-G98M051Z0EWP1WZF9YAG/Never+far+from+home+%28Somos+Tierra%29_Page_21.jpg?format=1300w",
+    "bytes": 102430
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_20.jpg",
+    "file": "never-far-from-home-somos-tierra-page-20.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-20.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557979301-51CHCDD1T0RYVJ7EUE0N/Never+far+from+home+%28Somos+Tierra%29_Page_20.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557979301-51CHCDD1T0RYVJ7EUE0N/Never+far+from+home+%28Somos+Tierra%29_Page_20.jpg?format=1300w",
+    "bytes": 145002
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_19.jpg",
+    "file": "never-far-from-home-somos-tierra-page-19.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-19.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557975112-JN0EH22GIMPZ826RQDJ2/Never+far+from+home+%28Somos+Tierra%29_Page_19.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557975112-JN0EH22GIMPZ826RQDJ2/Never+far+from+home+%28Somos+Tierra%29_Page_19.jpg?format=1300w",
+    "bytes": 82684
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_18.jpg",
+    "file": "never-far-from-home-somos-tierra-page-18.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-18.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557973828-953MCOBGV7DELFXZURET/Never+far+from+home+%28Somos+Tierra%29_Page_18.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557973828-953MCOBGV7DELFXZURET/Never+far+from+home+%28Somos+Tierra%29_Page_18.jpg?format=1300w",
+    "bytes": 78312
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_17.jpg",
+    "file": "never-far-from-home-somos-tierra-page-17.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-17.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557971677-U3RY705LK6JX92NF9T0D/Never+far+from+home+%28Somos+Tierra%29_Page_17.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557971677-U3RY705LK6JX92NF9T0D/Never+far+from+home+%28Somos+Tierra%29_Page_17.jpg?format=1300w",
+    "bytes": 125336
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_16.jpg",
+    "file": "never-far-from-home-somos-tierra-page-16.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-16.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557970533-LZ6VV5PD84L2FZBVN6EN/Never+far+from+home+%28Somos+Tierra%29_Page_16.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557970533-LZ6VV5PD84L2FZBVN6EN/Never+far+from+home+%28Somos+Tierra%29_Page_16.jpg?format=1300w",
+    "bytes": 129810
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_14.jpg",
+    "file": "never-far-from-home-somos-tierra-page-14.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-14.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557964774-FWPVEC55WQ0A72HZDRZD/Never+far+from+home+%28Somos+Tierra%29_Page_14.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557964774-FWPVEC55WQ0A72HZDRZD/Never+far+from+home+%28Somos+Tierra%29_Page_14.jpg?format=1300w",
+    "bytes": 146220
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_15.jpg",
+    "file": "never-far-from-home-somos-tierra-page-15.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-15.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557966768-Q3LSF9OGG5MP35TTFGHT/Never+far+from+home+%28Somos+Tierra%29_Page_15.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557966768-Q3LSF9OGG5MP35TTFGHT/Never+far+from+home+%28Somos+Tierra%29_Page_15.jpg?format=1300w",
+    "bytes": 111502
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_13.jpg",
+    "file": "never-far-from-home-somos-tierra-page-13.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-13.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557963046-GHUBTNJ3SLK0V8QCA3BB/Never+far+from+home+%28Somos+Tierra%29_Page_13.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557963046-GHUBTNJ3SLK0V8QCA3BB/Never+far+from+home+%28Somos+Tierra%29_Page_13.jpg?format=1300w",
+    "bytes": 167082
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_12.jpg",
+    "file": "never-far-from-home-somos-tierra-page-12.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-12.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557957151-0788HCINT23MSVQXWP21/Never+far+from+home+%28Somos+Tierra%29_Page_12.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557957151-0788HCINT23MSVQXWP21/Never+far+from+home+%28Somos+Tierra%29_Page_12.jpg?format=1300w",
+    "bytes": 124634
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_11.jpg",
+    "file": "never-far-from-home-somos-tierra-page-11.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-11.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557954921-5S3SRW849XOERU2BV09S/Never+far+from+home+%28Somos+Tierra%29_Page_11.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557954921-5S3SRW849XOERU2BV09S/Never+far+from+home+%28Somos+Tierra%29_Page_11.jpg?format=1300w",
+    "bytes": 135412
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_10.jpg",
+    "file": "never-far-from-home-somos-tierra-page-10.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-10.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557953375-H26I9REIEAC3QLN0SKZN/Never+far+from+home+%28Somos+Tierra%29_Page_10.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557953375-H26I9REIEAC3QLN0SKZN/Never+far+from+home+%28Somos+Tierra%29_Page_10.jpg?format=1300w",
+    "bytes": 110640
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_08.jpg",
+    "file": "never-far-from-home-somos-tierra-page-08.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-08.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557950056-4EGOPGNWTUDD5O1ETN80/Never+far+from+home+%28Somos+Tierra%29_Page_08.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557950056-4EGOPGNWTUDD5O1ETN80/Never+far+from+home+%28Somos+Tierra%29_Page_08.jpg?format=1300w",
+    "bytes": 126270
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_09.jpg",
+    "file": "never-far-from-home-somos-tierra-page-09.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-09.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557951145-RUPSFNAVLH4TPJBCRZEE/Never+far+from+home+%28Somos+Tierra%29_Page_09.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557951145-RUPSFNAVLH4TPJBCRZEE/Never+far+from+home+%28Somos+Tierra%29_Page_09.jpg?format=1300w",
+    "bytes": 88440
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_07.jpg",
+    "file": "never-far-from-home-somos-tierra-page-07.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-07.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557944873-VPL8GCH8CN83DMZLCD3O/Never+far+from+home+%28Somos+Tierra%29_Page_07.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557944873-VPL8GCH8CN83DMZLCD3O/Never+far+from+home+%28Somos+Tierra%29_Page_07.jpg?format=1300w",
+    "bytes": 142254
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_05.jpg",
+    "file": "never-far-from-home-somos-tierra-page-05.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-05.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557940765-MZ409SVPKYSRR198PHGO/Never+far+from+home+%28Somos+Tierra%29_Page_05.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557940765-MZ409SVPKYSRR198PHGO/Never+far+from+home+%28Somos+Tierra%29_Page_05.jpg?format=1300w",
+    "bytes": 102118
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_04.jpg",
+    "file": "never-far-from-home-somos-tierra-page-04.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-04.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557938417-QYWY8FRMYH39DIYK2UY8/Never+far+from+home+%28Somos+Tierra%29_Page_04.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557938417-QYWY8FRMYH39DIYK2UY8/Never+far+from+home+%28Somos+Tierra%29_Page_04.jpg?format=1300w",
+    "bytes": 119932
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_06.jpg",
+    "file": "never-far-from-home-somos-tierra-page-06.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-06.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557942913-1H2EUOU1SIROYH34ORG8/Never+far+from+home+%28Somos+Tierra%29_Page_06.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557942913-1H2EUOU1SIROYH34ORG8/Never+far+from+home+%28Somos+Tierra%29_Page_06.jpg?format=1300w",
+    "bytes": 119744
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_03.jpg",
+    "file": "never-far-from-home-somos-tierra-page-03.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-03.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557934592-ZOH0GB3LBMF4YE0BXDAN/Never+far+from+home+%28Somos+Tierra%29_Page_03.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557934592-ZOH0GB3LBMF4YE0BXDAN/Never+far+from+home+%28Somos+Tierra%29_Page_03.jpg?format=1300w",
+    "bytes": 107148
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_02.jpg",
+    "file": "never-far-from-home-somos-tierra-page-02.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-02.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557931241-HQV5SRSX3KETXQJLZL4O/Never+far+from+home+%28Somos+Tierra%29_Page_02.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557931241-HQV5SRSX3KETXQJLZL4O/Never+far+from+home+%28Somos+Tierra%29_Page_02.jpg?format=1300w",
+    "bytes": 88528
+  },
+  {
+    "category": "score-somos",
+    "name": "Never far from home (Somos Tierra)_Page_01.jpg",
+    "file": "never-far-from-home-somos-tierra-page-01.jpg",
+    "path": "assets/music/never-far-from-home-somos-tierra-page-01.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557928651-QY5AZ1QCWWDGTYO6NM5F/Never+far+from+home+%28Somos+Tierra%29_Page_01.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1674557928651-QY5AZ1QCWWDGTYO6NM5F/Never+far+from+home+%28Somos+Tierra%29_Page_01.jpg?format=1300w",
+    "bytes": 15540
+  },
+  {
+    "category": "credits",
+    "name": "Hamish and Andy",
+    "file": "hamish-and-andy.png",
+    "path": "assets/music/hamish-and-andy.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571143599172-2P8CSG18SX3LOYJFBIQO/Hamish+and+Andy?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571143599172-2P8CSG18SX3LOYJFBIQO/Hamish+and+Andy?format=900w",
+    "bytes": 25546
+  },
+  {
+    "category": "credits",
+    "name": "Sweary canary",
+    "file": "sweary-canary.png",
+    "path": "assets/music/sweary-canary.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571143295391-20H45R1W2QNQUBU5R2B3/Sweary+canary?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571143295391-20H45R1W2QNQUBU5R2B3/Sweary+canary?format=900w",
+    "bytes": 15262
+  },
+  {
+    "category": "credits",
+    "name": "Furnace Logo",
+    "file": "furnace-logo.png",
+    "path": "assets/music/furnace-logo.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571143009299-W7CTRL158XVQ72SN1BH6/Furnace+Logo?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571143009299-W7CTRL158XVQ72SN1BH6/Furnace+Logo?format=900w",
+    "bytes": 13994
+  },
+  {
+    "category": "credits",
+    "name": "Malaysia Festival",
+    "file": "malaysia-festival.jpg",
+    "path": "assets/music/malaysia-festival.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571142868452-P4H2UXR0C07A3DJIFXNB/Malaysia+Festival?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571142868452-P4H2UXR0C07A3DJIFXNB/Malaysia+Festival?format=900w",
+    "bytes": 4704
+  },
+  {
+    "category": "credits",
+    "name": "Greek Festival",
+    "file": "greek-festival.jpg",
+    "path": "assets/music/greek-festival.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571142787410-6Q37Q0LZSO75HFQ7DDG3/Greek+Festival?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571142787410-6Q37Q0LZSO75HFQ7DDG3/Greek+Festival?format=900w",
+    "bytes": 5260
+  },
+  {
+    "category": "credits",
+    "name": "BRFT",
+    "file": "brft.png",
+    "path": "assets/music/brft.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571142530222-N8KVAEWQRMO0VTQKD3B1/BRFT?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571142530222-N8KVAEWQRMO0VTQKD3B1/BRFT?format=900w",
+    "bytes": 13116
+  },
+  {
+    "category": "credits",
+    "name": "Baptist churches NSW",
+    "file": "baptist-churches-nsw.png",
+    "path": "assets/music/baptist-churches-nsw.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571142448374-2C700YNQSRVIB23WK7D5/Baptist+churches+NSW?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571142448374-2C700YNQSRVIB23WK7D5/Baptist+churches+NSW?format=900w",
+    "bytes": 4428
+  },
+  {
+    "category": "credits",
+    "name": "Barker College",
+    "file": "barker-college.jpg",
+    "path": "assets/music/barker-college.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571142327095-IKWMCV4B3VJORTL7QGVA/Barker+College?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571142327095-IKWMCV4B3VJORTL7QGVA/Barker+College?format=900w",
+    "bytes": 47366
+  },
+  {
+    "category": "credits",
+    "name": "Blake ELearning",
+    "file": "blake-elearning.png",
+    "path": "assets/music/blake-elearning.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571142125752-GJ4UHEZGPCUHOX8A91Z7/Blake+ELearning?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571142125752-GJ4UHEZGPCUHOX8A91Z7/Blake+ELearning?format=900w",
+    "bytes": 4290
+  },
+  {
+    "category": "credits",
+    "name": "Ampersand Video",
+    "file": "ampersand-video.jpg",
+    "path": "assets/music/ampersand-video.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571141377702-BZ9HTYRLXV03JTWLVRTZ/Ampersand+Video?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571141377702-BZ9HTYRLXV03JTWLVRTZ/Ampersand+Video?format=900w",
+    "bytes": 18208
+  },
+  {
+    "category": "credits",
+    "name": "Winery Lane",
+    "file": "winery-lane.png",
+    "path": "assets/music/winery-lane.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571141209672-BK0LWAZ2173Z5S9QR7UE/Winery+Lane?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571141209672-BK0LWAZ2173Z5S9QR7UE/Winery+Lane?format=900w",
+    "bytes": 8612
+  },
+  {
+    "category": "credits",
+    "name": "Sydney_Film_School_Logo.jpeg",
+    "file": "sydney-film-school-logo.jpg",
+    "path": "assets/music/sydney-film-school-logo.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571141139986-NW1IRM15HTV2IVH2FGNY/Sydney_Film_School_Logo.jpeg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571141139986-NW1IRM15HTV2IVH2FGNY/Sydney_Film_School_Logo.jpeg?format=900w",
+    "bytes": 21778
+  },
+  {
+    "category": "credits",
+    "name": "Rosevill College",
+    "file": "rosevill-college.png",
+    "path": "assets/music/rosevill-college.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571140986453-1V4W2HJ55V1490132AOL/Rosevill+College?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571140986453-1V4W2HJ55V1490132AOL/Rosevill+College?format=900w",
+    "bytes": 21800
+  },
+  {
+    "category": "credits",
+    "name": "Zurich Film Festival",
+    "file": "zurich-film-festival.jpg",
+    "path": "assets/music/zurich-film-festival.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571140906175-J7U9Y4SBS9UCRKUEDYZQ/Zurich+Film+Festival?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571140906175-J7U9Y4SBS9UCRKUEDYZQ/Zurich+Film+Festival?format=900w",
+    "bytes": 4090
+  },
+  {
+    "category": "credits",
+    "name": "Visual invest",
+    "file": "visual-invest.png",
+    "path": "assets/music/visual-invest.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571140865277-WCZXOOEOPVHHRE3MALYR/Visual+invest?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571140865277-WCZXOOEOPVHHRE3MALYR/Visual+invest?format=900w",
+    "bytes": 2254
+  },
+  {
+    "category": "credits",
+    "name": "mFT3ipxF_400x400.jpg",
+    "file": "mft3ipxf-400x400.jpg",
+    "path": "assets/music/mft3ipxf-400x400.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571140838539-DJINV02KY8M79EI1N9B3/mFT3ipxF_400x400.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571140838539-DJINV02KY8M79EI1N9B3/mFT3ipxF_400x400.jpg?format=900w",
+    "bytes": 4726
+  },
+  {
+    "category": "credits",
+    "name": "Visual invest",
+    "file": "visual-invest-2.png",
+    "path": "assets/music/visual-invest-2.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571136497719-VJ1K75AVAMVOQDO5YHD0/Visual+invest?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571136497719-VJ1K75AVAMVOQDO5YHD0/Visual+invest?format=900w",
+    "bytes": 2254
+  },
+  {
+    "category": "credits",
+    "name": "Zurich film festival",
+    "file": "zurich-film-festival-2.jpg",
+    "path": "assets/music/zurich-film-festival-2.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571136441752-1IOYT4C1QDRUPZ5E5S03/Zurich+film+festival?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571136441752-1IOYT4C1QDRUPZ5E5S03/Zurich+film+festival?format=900w",
+    "bytes": 7740
+  },
+  {
+    "category": "credits",
+    "name": "Greek-Festival-Of-Sydney-1000x600-1.jpg",
+    "file": "greek-festival-of-sydney-1000x600-1.jpg",
+    "path": "assets/music/greek-festival-of-sydney-1000x600-1.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571068553343-0W568VDSKH3UU8960FJ3/Greek-Festival-Of-Sydney-1000x600-1.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571068553343-0W568VDSKH3UU8960FJ3/Greek-Festival-Of-Sydney-1000x600-1.jpg?format=900w",
+    "bytes": 5260
+  },
+  {
+    "category": "credits",
+    "name": "FURNACE_LOGO_BLK.png",
+    "file": "furnace-logo-blk.png",
+    "path": "assets/music/furnace-logo-blk.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571068459821-KGAS5D5Q28A91Q55SI04/FURNACE_LOGO_BLK.png?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571068459821-KGAS5D5Q28A91Q55SI04/FURNACE_LOGO_BLK.png?format=900w",
+    "bytes": 13994
+  },
+  {
+    "category": "credits",
+    "name": "Sydney_Film_School_Logo.jpeg",
+    "file": "sydney-film-school-logo-2.jpg",
+    "path": "assets/music/sydney-film-school-logo-2.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571068397605-2Z9R7YWOLSOKUYPQ4Q5K/Sydney_Film_School_Logo.jpeg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571068397605-2Z9R7YWOLSOKUYPQ4Q5K/Sydney_Film_School_Logo.jpeg?format=900w",
+    "bytes": 21778
+  },
+  {
+    "category": "credits",
+    "name": "Blake Elearning",
+    "file": "blake-elearning-2.png",
+    "path": "assets/music/blake-elearning-2.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571068161562-D8VUVSJ8H0A1D6039ZI4/Blake+Elearning?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571068161562-D8VUVSJ8H0A1D6039ZI4/Blake+Elearning?format=900w",
+    "bytes": 4290
+  },
+  {
+    "category": "credits",
+    "name": "Malaysia Festival Sydney",
+    "file": "malaysia-festival-sydney.jpg",
+    "path": "assets/music/malaysia-festival-sydney.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571068111472-QXTQW9CCBQYXR4NF9VCB/Malaysia+Festival+Sydney?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571068111472-QXTQW9CCBQYXR4NF9VCB/Malaysia+Festival+Sydney?format=900w",
+    "bytes": 4704
+  },
+  {
+    "category": "credits",
+    "name": "download.png",
+    "file": "download-1571068026867-9y72ywj99z.png",
+    "path": "assets/music/download-1571068026867-9y72ywj99z.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571068026867-9Y72YWJ99ZUUMIGCADTN/download.png?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571068026867-9Y72YWJ99ZUUMIGCADTN/download.png?format=900w",
+    "bytes": 13116
+  },
+  {
+    "category": "credits",
+    "name": "download (1).png",
+    "file": "download-1.png",
+    "path": "assets/music/download-1.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571067988060-QCZAFPPFV43SG7HJ7519/download+%281%29.png?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571067988060-QCZAFPPFV43SG7HJ7519/download+%281%29.png?format=900w",
+    "bytes": 4428
+  },
+  {
+    "category": "credits",
+    "name": "Roseville_College_Crest_2017_Transparent_Logo.png",
+    "file": "roseville-college-crest-2017-transparent-logo.png",
+    "path": "assets/music/roseville-college-crest-2017-transparent-logo.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571067712450-DQH1B7RNJS3KJIAJ2QXG/Roseville_College_Crest_2017_Transparent_Logo.png?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571067712450-DQH1B7RNJS3KJIAJ2QXG/Roseville_College_Crest_2017_Transparent_Logo.png?format=900w",
+    "bytes": 21800
+  },
+  {
+    "category": "credits",
+    "name": "hamish--andy-specials-4fdb0cfb8176d.png",
+    "file": "hamish-andy-specials-4fdb0cfb8176d.png",
+    "path": "assets/music/hamish-andy-specials-4fdb0cfb8176d.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571067663346-3GKG2119RZ9PVBO72Y12/hamish--andy-specials-4fdb0cfb8176d.png?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571067663346-3GKG2119RZ9PVBO72Y12/hamish--andy-specials-4fdb0cfb8176d.png?format=900w",
+    "bytes": 25546
+  },
+  {
+    "category": "credits",
+    "name": "mFT3ipxF_400x400.jpg",
+    "file": "mft3ipxf-400x400-2.jpg",
+    "path": "assets/music/mft3ipxf-400x400-2.jpg",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571067568540-0NGRAGULYHTX9MQCRGEJ/mFT3ipxF_400x400.jpg?content-type=image%2Fjpeg",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571067568540-0NGRAGULYHTX9MQCRGEJ/mFT3ipxF_400x400.jpg?format=900w",
+    "bytes": 4726
+  },
+  {
+    "category": "credits",
+    "name": "winerylanebw-logo.png",
+    "file": "winerylanebw-logo.png",
+    "path": "assets/music/winerylanebw-logo.png",
+    "source": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571066450878-8UTIK5OTU000SL0HQUMG/winerylanebw-logo.png?content-type=image%2Fpng",
+    "downloadedFrom": "https://images.squarespace-cdn.com/content/5b7d625125bf02e90a42d794/1571066450878-8UTIK5OTU000SL0HQUMG/winerylanebw-logo.png?format=900w",
+    "bytes": 8612
+  }
+]
