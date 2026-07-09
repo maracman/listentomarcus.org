@@ -41,25 +41,67 @@
       <div class="project">
         <p class="project-title">
           <a href="https://github.com/maracman/probabilistic-music-synthesiser">Resona</a>
+          <span class="project-sub">— a probabilistic, physically-modelled music studio and research instrument</span>
         </p>
         <p>
-          A probabilistic, physically-modelled music studio — a browser instrument
-          that generates music from weighted probability distributions across
-          several musical timescales (melody, rhythm, surprise, timbre), plays it
-          through a physical-modelling synthesis engine with a per-layer effects
-          rack and binaural spatialisation, and arranges it on a full multitrack
-          producer timeline.
+          A full browser-based music studio, designed and built end-to-end. It
+          generates music from weighted probability distributions across several
+          musical timescales, renders it through a physical-modelling synthesis
+          engine, and arranges it on a multitrack producer timeline — while
+          doubling as a reproducible instrument for researching why music sounds
+          good.
         </p>
-        <p>
-          It doubles as a research instrument: every sound is reproducible from a
-          seed, and — only after a plain-language opt-in — what listeners explore
-          and how they rate it can be logged, so musical appeal can be modelled
-          directly against the mechanisms that generated the sound. Built to study
-          the aesthetics and mechanistic origins of music.
-        </p>
+
+        <img class="shot shot-hero" src="assets/software/resona-studio.jpg"
+             alt="Resona's generative studio: probability controls beside live melody, rhythm, surprise and motif lanes.">
+
+        <ul class="feature-list">
+          <li>
+            <strong>Generative core</strong> — melody, rhythm, register,
+            articulation and surprise are all driven by editable probability
+            distributions, with motif memory that repeats, drifts and mutates into
+            a growing repertoire.
+          </li>
+          <li>
+            <strong>Physical-modelling synthesis</strong> — every note is built
+            from an excitor → resonator → body → effects → space chain: additive
+            and formant voices, inharmonicity, material damping, vibrato and
+            per-note envelopes rather than samples.
+          </li>
+          <li>
+            <strong>Per-layer effects rack</strong> — eleven skeuomorphic,
+            plugin-style effects across EQ, drive, modulation, delay and character,
+            each with its own DSP, presets and expand-to-overlay face.
+          </li>
+          <li>
+            <strong>Binaural spatialisation</strong> — position each source around
+            the listener with a head / room / air model fitted from measured KEMAR
+            HRTFs, with per-track motion through time.
+          </li>
+          <li>
+            <strong>Microtonal Scale Lab</strong> — N-EDO systems, world tunings,
+            per-degree cents, sub-scales and roots, with Scala import / export.
+          </li>
+          <li>
+            <strong>Producer / DAW</strong> — arrange instruments on a multitrack
+            timeline with seed-reproducible takes, a bake-to-piano-roll note editor,
+            a channel-strip mixer, and offline WAV mixdown.
+          </li>
+          <li>
+            <strong>Research-ready</strong> — every play, rating and edit is
+            reproducible from a seed and can be logged (opt-in only) with
+            expectation / surprise metrics, so appeal can be modelled directly
+            against the mechanisms that generated the music.
+          </li>
+        </ul>
+
         <figure class="shots">
-          <img src="assets/software/resona-eq.jpg"
-               alt="A program equaliser from Resona's per-layer effects rack.">
+          <div class="shots-row">
+            <img class="shot-eq" src="assets/software/resona-eq.jpg"
+                 alt="A program equaliser from Resona's per-layer effects rack.">
+            <img src="assets/software/resona-producer.jpg"
+                 alt="Seed-reproducible regions arranged on Resona's multitrack producer timeline.">
+          </div>
           <div class="shots-row">
             <img src="assets/software/resona-field.jpg"
                  alt="Resona's probabilistic future field proposing the next notes.">
@@ -67,11 +109,17 @@
                  alt="Per-track placement of each voice in Resona's spatial mixer.">
           </div>
           <figcaption>
-            Resona — a program equaliser from the per-layer effects rack; the
-            probabilistic “future field” that proposes the next notes; and
-            per-track placement of each voice in space.
+            A program equaliser from the effects rack; the multitrack producer
+            timeline; the probabilistic “future field” that proposes the next
+            notes; and per-track placement of each voice in space.
           </figcaption>
         </figure>
+
+        <p class="project-meta">
+          Vanilla JavaScript + Web Audio in the browser, backed by a Python
+          (NumPy / SciPy) engine for reproducible offline rendering. ·
+          <a href="https://github.com/maracman/probabilistic-music-synthesiser">Source and full write-up on GitHub →</a>
+        </p>
       </div>
 
       <h2>Archive</h2>

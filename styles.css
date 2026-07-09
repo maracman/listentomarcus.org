@@ -41,14 +41,16 @@ a {
   font-size: 1.1em;
 }
 
+.project-sub {
+  color: #555;
+  font-size: 0.86em;
+}
+
 .project p {
   margin: 0 0 12px;
 }
 
-figure.shots {
-  margin: 14px 0 4px;
-}
-
+.shot,
 figure.shots img {
   display: block;
   width: 100%;
@@ -57,8 +59,31 @@ figure.shots img {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
 }
 
-figure.shots > img {
-  margin-bottom: 10px;
+.shot-hero {
+  margin: 16px 0 6px;
+}
+
+.feature-list {
+  padding-left: 20px;
+  margin: 14px 0 6px;
+}
+
+.feature-list li {
+  margin: 0 0 9px;
+}
+
+figure.shots {
+  margin: 16px 0 4px;
+}
+
+.shots-row + .shots-row {
+  margin-top: 10px;
+}
+
+.project-meta {
+  margin: 14px 0 0;
+  font-size: 0.9em;
+  color: #555;
 }
 
 .shots-row {
@@ -71,6 +96,10 @@ figure.shots > img {
   min-width: 0;
   height: 172px;
   object-fit: cover;
+}
+
+.shots-row img.shot-eq {
+  object-position: left center;
 }
 
 figure.shots figcaption {
