@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Marcus Anderson</title>
-    <meta name="description" content="Research links and archived composer site for Marcus Anderson.">
+    <meta name="description" content="Research, software, and archived music work by Marcus Anderson.">
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
     <main>
       <h1>Marcus Anderson</h1>
-      <p>Research notes, papers, and archived music work.</p>
+      <p>Research notes, papers, software, and archived music work.</p>
 
       <h2>Research</h2>
       <ul>
@@ -36,6 +36,43 @@
           Characterizes how inverse-square pruning changes network topology across input resolution and model size, highlighting bandwidth-dependent clustering and stronger 2D embeddings.
         </li>
       </ul>
+
+      <h2>Software</h2>
+      <div class="project">
+        <p class="project-title">
+          <a href="https://github.com/maracman/probabilistic-music-synthesiser">Resona</a>
+        </p>
+        <p>
+          A probabilistic, physically-modelled music studio — a browser instrument
+          that generates music from weighted probability distributions across
+          several musical timescales (melody, rhythm, surprise, timbre), plays it
+          through a physical-modelling synthesis engine with a per-layer effects
+          rack and binaural spatialisation, and arranges it on a full multitrack
+          producer timeline.
+        </p>
+        <p>
+          It doubles as a research instrument: every sound is reproducible from a
+          seed, and — only after a plain-language opt-in — what listeners explore
+          and how they rate it can be logged, so musical appeal can be modelled
+          directly against the mechanisms that generated the sound. Built to study
+          the aesthetics and mechanistic origins of music.
+        </p>
+        <figure class="shots">
+          <img src="assets/software/resona-eq.jpg"
+               alt="A program equaliser from Resona's per-layer effects rack.">
+          <div class="shots-row">
+            <img src="assets/software/resona-field.jpg"
+                 alt="Resona's probabilistic future field proposing the next notes.">
+            <img src="assets/software/resona-space.jpg"
+                 alt="Per-track placement of each voice in Resona's spatial mixer.">
+          </div>
+          <figcaption>
+            Resona — a program equaliser from the per-layer effects rack; the
+            probabilistic “future field” that proposes the next notes; and
+            per-track placement of each voice in space.
+          </figcaption>
+        </figure>
+      </div>
 
       <h2>Archive</h2>
       <ul>

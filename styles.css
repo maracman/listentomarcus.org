@@ -31,3 +31,61 @@ li {
 a {
   color: #0645ad;
 }
+
+.project {
+  margin: 0 0 18px;
+}
+
+.project-title {
+  margin: 0 0 6px;
+  font-size: 1.1em;
+}
+
+.project p {
+  margin: 0 0 12px;
+}
+
+figure.shots {
+  margin: 14px 0 4px;
+}
+
+figure.shots img {
+  display: block;
+  width: 100%;
+  border: 1px solid #e3ded1;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+}
+
+figure.shots > img {
+  margin-bottom: 10px;
+}
+
+.shots-row {
+  display: flex;
+  gap: 10px;
+}
+
+.shots-row img {
+  flex: 1 1 0;
+  min-width: 0;
+  height: 172px;
+  object-fit: cover;
+}
+
+figure.shots figcaption {
+  margin-top: 9px;
+  font-size: 0.82em;
+  font-style: italic;
+  color: #666;
+}
+
+@media (max-width: 560px) {
+  .shots-row {
+    flex-direction: column;
+  }
+
+  .shots-row img {
+    height: auto;
+  }
+}
