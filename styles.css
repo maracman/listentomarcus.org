@@ -72,12 +72,23 @@ figure.shots img {
   margin: 0 0 9px;
 }
 
+.shot-full {
+  margin: 18px 0 4px;
+}
+
 figure.shots {
-  margin: 16px 0 4px;
+  margin: 18px 0 4px;
 }
 
 .shots-row + .shots-row {
   margin-top: 10px;
+}
+
+.project figcaption {
+  margin-top: 9px;
+  font-size: 0.82em;
+  font-style: italic;
+  color: #666;
 }
 
 .project-meta {
@@ -100,13 +111,6 @@ figure.shots {
 
 .shots-row img.shot-eq {
   object-position: left center;
-}
-
-figure.shots figcaption {
-  margin-top: 9px;
-  font-size: 0.82em;
-  font-style: italic;
-  color: #666;
 }
 
 @media (max-width: 560px) {
