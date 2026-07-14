@@ -122,3 +122,22 @@ figure.shots {
     height: auto;
   }
 }
+
+/* Early-access invite callout for Soundinator */
+.invite-callout {
+  padding: 12px 14px;
+  border: 1px solid #e3ded1;
+  border-left: 3px solid #b8860b;
+  border-radius: 6px;
+  background: #faf6ec;
+}
+
+.invite-code {
+  font: 0.95em/1 "SF Mono", Menlo, Consolas, monospace;
+  background: #f0e9d8;
+  border: 1px solid #e3ded1;
+  border-radius: 4px;
+  padding: 2px 7px;
+  letter-spacing: 0.04em;
+  user-select: all;
+}
