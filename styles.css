@@ -110,20 +110,67 @@ details.project[open] > summary {
   color: #555;
 }
 
-/* Site-wide badge pointing at the live Soundinator studio */
+/* Site-wide badge pointing at the live Soundinator studio,
+   styled after the studio's own dark-and-amber interface */
 .site-badge {
-  display: inline-block;
-  margin: 4px 0 0;
-  padding: 10px 16px;
-  border: 1px solid #e0c98f;
-  border-radius: 14px;
-  background: #faf6ec;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
-  font-size: 0.95em;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 8px 12px;
+  margin: 14px 0 0;
+  padding: 13px 18px;
+  border: 1px solid #2e3c55;
+  border-radius: 12px;
+  background: linear-gradient(130deg, #121a29, #1c2740 62%, #22304e);
+  color: #dbe4f2;
+  font-size: 0.93em;
+  box-shadow: 0 2px 12px rgba(16, 24, 42, 0.28);
 }
 
-.site-badge .invite-code {
+.badge-tag {
+  font: 700 0.72em/1 Georgia, serif;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #f2b64e;
+  border: 1px solid rgba(242, 182, 78, 0.55);
+  border-radius: 999px;
+  padding: 4px 9px 3px;
   white-space: nowrap;
+  align-self: center;
+}
+
+.badge-text {
+  flex: 0 1 auto;
+}
+
+.badge-invite {
+  margin-left: auto;
+  white-space: nowrap;
+  color: #9daecb;
+}
+
+.site-badge a {
+  color: #f2b64e;
+  font-weight: 700;
+  text-decoration-color: rgba(242, 182, 78, 0.45);
+  text-underline-offset: 2px;
+}
+
+.badge-sep {
+  color: #5d6c88;
+  margin: 0 2px;
+}
+
+.badge-code {
+  font: 0.92em/1 "SF Mono", Menlo, Consolas, monospace;
+  color: #f2b64e;
+  background: #0c1220;
+  border: 1px solid #35435f;
+  border-radius: 5px;
+  padding: 3px 8px;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+  user-select: all;
 }
 
 /* Early-access invite callout for Soundinator */
