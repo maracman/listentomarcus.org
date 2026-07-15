@@ -32,6 +32,25 @@ a {
   color: #0645ad;
 }
 
+.tags {
+  display: block;
+  margin-top: 7px;
+}
+
+.tag {
+  display: inline-block;
+  font-size: 0.66em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #6a6357;
+  background: #f5f2ea;
+  border: 1px solid #e3ded1;
+  border-radius: 999px;
+  padding: 3px 9px 2px;
+  margin: 0 5px 5px 0;
+  white-space: nowrap;
+}
+
 .project {
   margin: 0 0 18px;
 }
