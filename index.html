@@ -221,6 +221,102 @@
         </p>
       </details>
 
+      <details class="project">
+        <summary class="project-title">
+          <a href="https://github.com/maracman/biologically-inspired-graph-networks">Biologically Inspired Graph Networks</a>
+          <span class="project-sub">— a self-teaching notebook course on network topology, from graph theory to developmental pruning</span>
+        </summary>
+        <p>
+          A seven-notebook course that starts from graph-theory basics and
+          builds towards the pruning-based network construction behind my
+          sparse-network papers. It's written as a way into thinking about
+          neural networks the way biology does: not wired from scratch, but
+          grown dense and then pruned back. Every notebook motivates its maths
+          with the brain — neurons as nodes, synapses as weighted edges — and
+          ends in runnable code you can re-generate, change, and measure.
+        </p>
+
+        <img class="shot shot-hero" src="assets/software/graph-methods-compared.png"
+             alt="Four network-generation methods drawn side by side — Erdős-Rényi, Watts-Strogatz, Barabási-Albert, and a spatial inverse-square model — each labelled with its clustering coefficient.">
+
+        <p>
+          The through-line is one question: what makes a network look like a
+          brain? The course answers it by measuring candidate networks against
+          biological criteria, then showing that pruning a dense weighted graph
+          reproduces those criteria more faithfully than the standard random
+          models.
+        </p>
+
+        <ul class="feature-list">
+          <li>
+            <strong>Starts from the vocabulary</strong> — directed, weighted
+            and simple graphs; degree, paths, cycles and connectivity — each
+            introduced through its neural counterpart.
+          </li>
+          <li>
+            <strong>Measures what matters</strong> — clustering coefficient,
+            average path length and the small-world coefficient: the metrics
+            used to decide whether a generated network is biologically
+            plausible.
+          </li>
+          <li>
+            <strong>Surveys the classic generators</strong> — Erdős-Rényi,
+            Watts-Strogatz, Barabási-Albert and spatial / inverse-square
+            models — and shows where each falls short of real cortical
+            structure.
+          </li>
+          <li>
+            <strong>Builds networks by pruning</strong> — deterministic,
+            probabilistic and distance-weighted pruning, then multiple
+            developmental cycles of weight decay, Pareto-principle
+            reinforcement and elimination.
+          </li>
+          <li>
+            <strong>Ends with functional analysis</strong> — spectral
+            clustering, Louvain community detection and weighted modularity
+            to read out the modular structure that pruning leaves behind.
+          </li>
+        </ul>
+
+        <figure class="shot-full">
+          <img class="shot" src="assets/software/graph-types.png"
+               alt="Three small labelled graphs — undirected, directed, and weighted — side by side.">
+          <figcaption>
+            The vocabulary the course starts from — undirected, directed and
+            weighted graphs — introduced through their neural counterparts:
+            synapses that point one way, and connections that vary in strength.
+          </figcaption>
+        </figure>
+
+        <figure class="shot-full">
+          <img class="shot" src="assets/software/graph-clustering.png"
+               alt="The same four-node graph shown four times, each highlighting one node and its clustering coefficient, from 1.00 down to 0.00.">
+          <figcaption>
+            Clustering coefficient, one node at a time — the fraction of a
+            node's neighbours that are also connected to each other. It's the
+            first quantitative handle on whether a network has brain-like local
+            structure.
+          </figcaption>
+        </figure>
+
+        <figure class="shot-full">
+          <img class="shot" src="assets/software/graph-pruning-before-after.png"
+               alt="Left: a dense hairball of 1,770 edges. Right: the same nodes reduced to a sparse, clearly structured 177-edge network after keeping only the strongest connections.">
+          <figcaption>
+            The pruning philosophy in one picture — a dense 1,770-edge graph
+            reduced to 177 edges by keeping only the strongest connections. The
+            brain builds sparse networks the same way: start dense, then prune.
+            This is the process the papers build on.
+          </figcaption>
+        </figure>
+
+        <p class="project-meta">
+          Python notebooks (NetworkX / NumPy / Matplotlib / scikit-learn),
+          runnable in Jupyter or Colab. ·
+          <a href="https://github.com/maracman/biologically-inspired-graph-networks">Notebooks and full course on GitHub →</a>
+        </p>
+      </details>
+
       <h2>Archive</h2>
       <ul>
         <li>
