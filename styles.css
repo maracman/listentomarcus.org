@@ -75,6 +75,11 @@ details.project[open] > summary {
   max-width: min(560px, 100%);
 }
 
+.shot-portrait {
+  width: auto;
+  max-width: min(400px, 100%);
+}
+
 .shot-hero {
   margin: 16px 0 6px;
 }
