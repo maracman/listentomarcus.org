@@ -38,11 +38,11 @@
       </ul>
 
       <h2>Software</h2>
-      <div class="project">
-        <p class="project-title">
+      <details class="project" open>
+        <summary class="project-title">
           <a href="https://github.com/maracman/soundinator">Soundinator</a>
           <span class="project-sub">— a probabilistic, physically-modelled music studio and research instrument</span>
-        </p>
+        </summary>
         <p>
           A full browser-based music studio, designed and built end-to-end. It
           generates music from weighted probability distributions across several
@@ -98,6 +98,11 @@
             a channel-strip mixer, and offline WAV mixdown.
           </li>
           <li>
+            <strong>Community library</strong> — invite-gated sharing of
+            instruments, sequences and behaviours with ratings and profiles,
+            plus an auditioner that layers shared patches into a live jam.
+          </li>
+          <li>
             <strong>Research-ready</strong> — every play, rating and edit is
             reproducible from a seed and can be logged (opt-in only) with
             expectation / surprise metrics, so appeal can be modelled directly
@@ -106,13 +111,33 @@
         </ul>
 
         <figure class="shot-full">
-          <img class="shot" src="assets/software/resona-tonespace.jpg"
-               alt="Soundinator's sub-note designer showing the binaural Space ear-response, the excitor to space chain, and two layers each with a full effects chain.">
+          <img class="shot" src="assets/software/soundinator-chain.jpg"
+               alt="Soundinator's sub-note designer: the excitor, resonator, body, effects and space stages above a binaural stage view, with an Ears panel showing what reaches each ear.">
           <figcaption>
-            The sub-note designer — build a single note from its excitor →
-            resonator → body → effects → space chain, place it in a binaural
-            room (head / room / air models fitted from measured HRTFs), then
-            stack layers, each carrying its own effects chain.
+            The sub-note designer — every note is built from an excitor →
+            resonator → body → effects → space chain and placed in one shared
+            binaural room; the Ears panel shows what actually arrives at each
+            ear, when, and how it's coloured.
+          </figcaption>
+        </figure>
+
+        <figure class="shot-full">
+          <img class="shot" src="assets/software/soundinator-partials.jpg"
+               alt="Soundinator's resonator partial field: individual partials plotted by frequency and level, with decay time, wobble and cross-partial coupling on a pinned partial's inspector.">
+          <figcaption>
+            Inside the resonator — a field of individual partials, each with
+            its own level, decay time, wobble and coupling to other partials;
+            focus filters isolate the odd, even, coupled or long-ringing ones.
+          </figcaption>
+        </figure>
+
+        <figure class="shot-full">
+          <img class="shot shot-narrow" src="assets/software/soundinator-eq.jpg"
+               alt="The Sculpt EQ, a skeuomorphic program equaliser, open in Soundinator's per-layer effects rack ahead of a tube drive and wavefolder.">
+          <figcaption>
+            The effects rack — plugin-style effects with their own DSP and
+            presets; here a program equaliser sits ahead of a tube drive and a
+            wavefolder in one layer's chain.
           </figcaption>
         </figure>
 
@@ -127,6 +152,16 @@
         </figure>
 
         <figure class="shot-full">
+          <img class="shot" src="assets/software/soundinator-globalspace.jpg"
+               alt="Soundinator's Global Space lane in the producer: per-track distance curves evolving across the arrangement above the multitrack timeline.">
+          <figcaption>
+            Global Space in the producer — the whole arrangement shares one
+            room, and each track's position through it is drawn over time, so
+            voices drift nearer and farther as the piece plays.
+          </figcaption>
+        </figure>
+
+        <figure class="shot-full">
           <img class="shot" src="assets/software/resona-scalelab.jpg"
                alt="Soundinator's Scale Lab: a microtonal tuning wheel with just-ratio and EDO grids, tuning presets and Scala import and export.">
           <figcaption>
@@ -136,16 +171,13 @@
           </figcaption>
         </figure>
 
-        <figure class="shots">
-          <div class="shots-row">
-            <img class="shot-eq" src="assets/software/resona-eq.jpg"
-                 alt="A skeuomorphic program equaliser from Soundinator's per-layer effects rack.">
-            <img src="assets/software/resona-space.jpg"
-                 alt="Per-track placement of each voice in Soundinator's spatial mixer.">
-          </div>
+        <figure class="shot-full">
+          <img class="shot" src="assets/software/soundinator-community.jpg"
+               alt="Soundinator's community library: shared instrument cards with ratings, and the auditioner bar layering two shared patches into a live jam.">
           <figcaption>
-            Close-ups — a skeuomorphic program equaliser from the effects rack,
-            and per-track placement of each voice in space.
+            The community library — share instruments, sequences and
+            behaviours, rate what others post, and stack shared patches in the
+            auditioner to hear them jam together live.
           </figcaption>
         </figure>
 
@@ -154,7 +186,7 @@
           (NumPy / SciPy) engine for reproducible offline rendering. ·
           <a href="https://github.com/maracman/soundinator">Source and full write-up on GitHub →</a>
         </p>
-      </div>
+      </details>
 
       <h2>Archive</h2>
       <ul>

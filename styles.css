@@ -41,6 +41,18 @@ a {
   font-size: 1.1em;
 }
 
+details.project > summary {
+  cursor: pointer;
+}
+
+details.project > summary:hover {
+  color: #0645ad;
+}
+
+details.project[open] > summary {
+  margin-bottom: 10px;
+}
+
 .project-sub {
   color: #555;
   font-size: 0.86em;
@@ -50,13 +62,17 @@ a {
   margin: 0 0 12px;
 }
 
-.shot,
-figure.shots img {
+.shot {
   display: block;
   width: 100%;
   border: 1px solid #e3ded1;
   border-radius: 6px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+}
+
+.shot-narrow {
+  width: auto;
+  max-width: min(560px, 100%);
 }
 
 .shot-hero {
@@ -76,14 +92,6 @@ figure.shots img {
   margin: 18px 0 4px;
 }
 
-figure.shots {
-  margin: 18px 0 4px;
-}
-
-.shots-row + .shots-row {
-  margin-top: 10px;
-}
-
 .project figcaption {
   margin-top: 9px;
   font-size: 0.82em;
@@ -95,32 +103,6 @@ figure.shots {
   margin: 14px 0 0;
   font-size: 0.9em;
   color: #555;
-}
-
-.shots-row {
-  display: flex;
-  gap: 10px;
-}
-
-.shots-row img {
-  flex: 1 1 0;
-  min-width: 0;
-  height: 172px;
-  object-fit: cover;
-}
-
-.shots-row img.shot-eq {
-  object-position: left center;
-}
-
-@media (max-width: 560px) {
-  .shots-row {
-    flex-direction: column;
-  }
-
-  .shots-row img {
-    height: auto;
-  }
 }
 
 /* Early-access invite callout for Soundinator */
