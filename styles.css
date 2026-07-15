@@ -110,6 +110,22 @@ details.project[open] > summary {
   color: #555;
 }
 
+/* Site-wide badge pointing at the live Soundinator studio */
+.site-badge {
+  display: inline-block;
+  margin: 4px 0 0;
+  padding: 10px 16px;
+  border: 1px solid #e0c98f;
+  border-radius: 14px;
+  background: #faf6ec;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  font-size: 0.95em;
+}
+
+.site-badge .invite-code {
+  white-space: nowrap;
+}
+
 /* Early-access invite callout for Soundinator */
 .invite-callout {
   padding: 12px 14px;
