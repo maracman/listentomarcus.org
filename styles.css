@@ -129,21 +129,46 @@ details.project[open] > summary {
   color: #555;
 }
 
-/* Site-wide badge pointing at the live Soundinator studio,
-   styled after the studio's own dark-and-amber interface */
+/* Site-wide badge pointing at the live Soundinator studio, with a cropped
+   slice of the studio's generative view behind the dark-and-amber text */
 .site-badge {
+  position: relative;
   display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  gap: 8px 12px;
+  flex-direction: column;
+  gap: 7px;
   margin: 14px 0 0;
-  padding: 13px 18px;
+  padding: 11px 18px 12px;
   border: 1px solid #2e3c55;
   border-radius: 12px;
-  background: linear-gradient(130deg, #121a29, #1c2740 62%, #22304e);
+  background-image: linear-gradient(
+      to top,
+      rgba(9, 13, 22, 0.72) 0%,
+      rgba(9, 13, 22, 0.36) 55%,
+      rgba(9, 13, 22, 0.18) 100%
+    ),
+    url("assets/software/soundinator-lanes.jpg");
+  background-size: 140% auto;
+  background-position: 92% 24%;
+  background-repeat: no-repeat;
   color: #dbe4f2;
   font-size: 0.93em;
+  text-shadow: 0 1px 5px rgba(5, 8, 15, 0.85);
   box-shadow: 0 2px 12px rgba(16, 24, 42, 0.28);
+}
+
+.badge-top {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 4px 14px;
+}
+
+.site-badge a {
+  color: #f2b64e;
+  font-weight: 700;
+  text-decoration-color: rgba(242, 182, 78, 0.45);
+  text-underline-offset: 2px;
 }
 
 .badge-tag {
@@ -163,21 +188,8 @@ details.project[open] > summary {
 }
 
 .badge-invite {
-  margin-left: auto;
   white-space: nowrap;
   color: #9daecb;
-}
-
-.site-badge a {
-  color: #f2b64e;
-  font-weight: 700;
-  text-decoration-color: rgba(242, 182, 78, 0.45);
-  text-underline-offset: 2px;
-}
-
-.badge-sep {
-  color: #5d6c88;
-  margin: 0 2px;
 }
 
 .badge-code {
