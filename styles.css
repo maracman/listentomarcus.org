@@ -16,6 +16,15 @@ h1 {
   margin-bottom: 8px;
 }
 
+.top-links {
+  margin: 10px 0 2px;
+  font-size: 0.95em;
+}
+
+.top-links a {
+  font-weight: 700;
+}
+
 h2 {
   margin-top: 32px;
 }
