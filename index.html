@@ -79,30 +79,58 @@
             <span class="tag">Networks</span>
           </span>
         </li>
-        <li>
-          <a href="https://drive.google.com/file/d/1Kd17diOYGIThPLZMrUh0gljRdY61bpuf/view?usp=sharing">
-            Inverse-Square Distance Priors Improve Network Pruning at Extreme Sparsity
-          </a>
+        <li class="series">
+          <span class="series-kicker">Three-part series</span>
+          <span class="series-name">Distance-Based Pruning</span>
           <br>
-          Tests a biologically inspired 1/d^2 wiring prior for sparse neural networks, showing improved ResNet-18 performance at 98-99% sparsity.
-          <span class="tags">
-            <span class="tag">Empirical</span>
-            <span class="tag">Machine learning</span>
-            <span class="tag">Neuroscience</span>
-            <span class="tag">Sparsity</span>
-          </span>
-        </li>
-        <li>
-          <a href="https://drive.google.com/file/d/1WYz36KJEBxnoKrxtJDNWVAaN_Pg_ULMk/view?usp=drive_link">
-            Bandwidth and Capacity Systematically Shape the Topology of Inverse-Square Distance Pruning
-          </a>
-          <br>
-          Characterizes how inverse-square pruning changes network topology across input resolution and model size, highlighting bandwidth-dependent clustering and stronger 2D embeddings.
-          <span class="tags">
-            <span class="tag">Empirical</span>
-            <span class="tag">Machine learning</span>
-            <span class="tag">Networks</span>
-          </span>
+          One paradigm developed across three preprints: build sparse neural
+          networks the way biology does — wire by distance, then prune. Part 1
+          establishes the method, Part 2 characterizes the topology it
+          produces, and Part 3 derives the distance from the network's own
+          activity.
+          <ol class="series-list">
+            <li>
+              <a href="https://doi.org/10.5281/zenodo.21885727">
+                Inverse-Square Distance Priors Improve Network Pruning at Extreme Sparsity
+              </a>
+              <br>
+              Tests a biologically inspired 1/d² wiring prior for sparse neural networks, showing improved ResNet-18 performance at 98-99% sparsity.
+              <span class="series-doi">doi:10.5281/zenodo.21885727</span>
+              <span class="tags">
+                <span class="tag">Empirical</span>
+                <span class="tag">Machine learning</span>
+                <span class="tag">Neuroscience</span>
+                <span class="tag">Sparsity</span>
+              </span>
+            </li>
+            <li>
+              <a href="https://doi.org/10.5281/zenodo.21886372">
+                Bandwidth and Capacity Systematically Shape the Topology of Inverse-Square Distance Pruning
+              </a>
+              <br>
+              Characterizes how inverse-square pruning changes network topology across input resolution and model size, highlighting bandwidth-dependent clustering and stronger 2D embeddings.
+              <span class="series-doi">doi:10.5281/zenodo.21886372</span>
+              <span class="tags">
+                <span class="tag">Empirical</span>
+                <span class="tag">Machine learning</span>
+                <span class="tag">Networks</span>
+              </span>
+            </li>
+            <li>
+              <a href="https://doi.org/10.5281/zenodo.21886434">
+                Activity-Derived Functional Distance for Structured Pruning
+              </a>
+              <br>
+              Replaces assigned coordinates with distances read from the network's own activity, preserving a trained ResNet's computation through heavy structured pruning — with a measurable condition for where the method applies.
+              <span class="series-doi">doi:10.5281/zenodo.21886434</span>
+              <span class="tags">
+                <span class="tag">Empirical</span>
+                <span class="tag">Machine learning</span>
+                <span class="tag">Neuroscience</span>
+                <span class="tag">Networks</span>
+              </span>
+            </li>
+          </ol>
         </li>
       </ul>
 
