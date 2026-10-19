@@ -19,10 +19,8 @@
       <p class="site-badge">
         <span class="badge-top">
           <span class="badge-tag">New</span>
-          <span class="badge-invite">invite code
-            <code class="badge-code">TrySoundinator!26</code></span>
         </span>
-        <span class="badge-text">Try my probabilistic music-generation studio at
+        <span class="badge-text">Try my probabilistic music studio — free to sign up — at
           <a href="https://thesoundinator.com">thesoundinator.com</a></span>
       </p>
 
@@ -140,19 +138,24 @@
         </p>
 
         <p class="invite-callout">
-          <strong>Soundinator is now live at
+          <strong>Soundinator is live at
           <a href="https://thesoundinator.com">thesoundinator.com</a></strong> —
-          in early testing, so access is invite-only. The first 30 people can
-          create an account with the invite code
-          <code class="invite-code">TrySoundinator!26</code>.
-          Found a problem? There's a &ldquo;Report a problem&rdquo; button in the
-          account menu — every report helps.
+          open sign-up, no invite code needed. The home page plays its patches
+          straight away; open the studio to shape them. Found a problem? There's
+          a &ldquo;Report a problem&rdquo; button in the account menu — every
+          report helps.
         </p>
 
-        <img class="shot shot-hero" src="assets/software/soundinator-lanes.jpg"
-             alt="Soundinator's generative view: recent history to the left of the playhead, and a probability field of possible futures to the right, across melody, rhythm, surprise and motif-memory lanes.">
+        <img class="shot shot-hero" src="assets/software/soundinator-pace.webp"
+             alt="Soundinator's Play page: a loaded patch, Rast Morning, drawn as a ring of notes beside six broad controls — Pace, Leaps, Pitch, Groove, Surprise and Space.">
 
         <ul class="feature-list">
+          <li>
+            <strong>Play, then compose</strong> — load a patch and shape it with
+            six broad controls (Pace, Leaps, Pitch, Groove, Surprise, Space), or
+            open any part of it as an instrument face: Melody, Duration,
+            Phrasing, Dynamics, Harmony, Sequence and Percussion.
+          </li>
           <li>
             <strong>Generative core</strong> — melody, rhythm, register,
             articulation and surprise are all driven by editable probability
@@ -176,8 +179,10 @@
             HRTFs, with per-track motion through time.
           </li>
           <li>
-            <strong>Microtonal Scale Lab</strong> — N-EDO systems, world tunings,
-            per-degree cents, sub-scales and roots, with Scala import / export.
+            <strong>Scale &amp; Root</strong> — a tuning wheel that leads: set each
+            note's role, drag to retune, turn the ring to move home. Historical
+            temperaments and 19/24/31/53-EDO, plus a library of 78 world scales
+            browsable as a list, a world map or a timeline.
           </li>
           <li>
             <strong>Producer / DAW</strong> — arrange instruments on a multitrack
@@ -185,7 +190,7 @@
             a channel-strip mixer, and offline WAV mixdown.
           </li>
           <li>
-            <strong>Community library</strong> — invite-gated sharing of
+            <strong>Community library</strong> — open sharing of
             instruments, sequences and behaviours with ratings and profiles,
             plus an auditioner that layers shared patches into a live jam.
           </li>
@@ -198,84 +203,58 @@
         </ul>
 
         <figure class="shot-full">
-          <img class="shot shot-portrait" src="assets/software/soundinator-macro.jpg"
-               alt="The Macro Probability panel for melody: walk and arpeggio generation modes, interval and accuracy sliders, and a per-scale-degree probability histogram mixing generation, accuracy and surprise.">
+          <img class="shot" src="assets/software/soundinator-melody.webp"
+               alt="Soundinator's Melody face: a register strip, recent notes on a roll, and up / repeat / down probabilities for the next note.">
           <figcaption>
-            The distributions behind the field — every choice the generator
-            makes is an editable probability: here the melody walker's interval
-            shape, accuracy and per-scale-degree histogram, with generation,
-            accuracy and surprise stacked in one view.
+            The Melody face — what was just played, what comes next, and the odds of stepping up, down or repeating, all on one instrument face.
           </figcaption>
         </figure>
 
         <figure class="shot-full">
-          <img class="shot" src="assets/software/soundinator-chain.jpg"
-               alt="Soundinator's sub-note designer: the excitor, resonator, body, effects and space stages above a binaural stage view, with an Ears panel showing what reaches each ear.">
+          <img class="shot" src="assets/software/soundinator-harmony.webp"
+               alt="Soundinator's Harmony face: a four-chord loop with arrival and home chords, and sliders for chord count, fullness, progression focus and root motion.">
           <figcaption>
-            The sub-note designer — every note is built from an excitor →
-            resonator → body → effects → space chain and placed in one shared
-            binaural room; the Ears panel shows what actually arrives at each
-            ear, when, and how it's coloured.
+            Harmony — a chord progression plan with adherence; chords are scored from the instrument's own overtones, so the same loop fits differently on different instruments.
           </figcaption>
         </figure>
 
         <figure class="shot-full">
-          <img class="shot" src="assets/software/soundinator-partials.jpg"
-               alt="Soundinator's resonator partial field: individual partials plotted by frequency and level, with decay time, wobble and cross-partial coupling on a pinned partial's inspector.">
+          <img class="shot" src="assets/software/soundinator-drums.webp"
+               alt="Soundinator's two-circle sequencer: a 16-beat sequence ring beside an 8-beat percussion loop.">
           <figcaption>
-            Inside the resonator — a field of individual partials, each with
-            its own level, decay time, wobble and coupling to other partials;
-            focus filters isolate the odd, even, coupled or long-ringing ones.
+            Sequence and Percussion — a two-circle pattern sequencer: the phrase on one ring, the drum loop on the other.
           </figcaption>
         </figure>
 
         <figure class="shot-full">
-          <img class="shot shot-narrow" src="assets/software/soundinator-eq.jpg"
-               alt="The Sculpt EQ, a skeuomorphic program equaliser, open in Soundinator's per-layer effects rack ahead of a tube drive and wavefolder.">
+          <img class="shot" src="assets/software/soundinator-scales.webp"
+               alt="Soundinator's Scale and Root page: a tuning wheel with home set to C4, beside a factory scale library.">
           <figcaption>
-            The effects rack — plugin-style effects with their own DSP and
-            presets; here a program equaliser sits ahead of a tube drive and a
-            wavefolder in one layer's chain.
+            Scale &amp; Root — the tuning wheel beside a scale library of world scales and historical tunings, each with where and when it comes from.
           </figcaption>
         </figure>
 
         <figure class="shot-full">
-          <img class="shot" src="assets/software/resona-daw.jpg"
-               alt="Soundinator's producer with the piano-roll note editor open beneath a multitrack timeline of seed-reproducible regions.">
+          <img class="shot" src="assets/software/soundinator-sound.webp"
+               alt="Soundinator's sound designer: excitor, resonator, body, effects and space stages above the excitor controls and a partial field.">
           <figcaption>
-            The producer — arrange seed-reproducible takes on a multitrack
-            timeline (with a global scale and a global space that evolve over
-            time), and bake any region open into a piano-roll note editor.
+            The sound designer — every note is built from an excitor → resonator → body → effects → space chain; here the excitor drives a field of individual partials.
           </figcaption>
         </figure>
 
         <figure class="shot-full">
-          <img class="shot" src="assets/software/soundinator-globalspace.jpg"
-               alt="Soundinator's Global Space lane in the producer: per-track distance curves evolving across the arrangement above the multitrack timeline.">
+          <img class="shot" src="assets/software/soundinator-space.webp"
+               alt="Soundinator's space view: a polar map around the listener with a source placed at 3.2 metres and minus 15 degrees.">
           <figcaption>
-            Global Space in the producer — the whole arrangement shares one
-            room, and each track's position through it is drawn over time, so
-            voices drift nearer and farther as the piece plays.
+            Space — each part stands at a distance and angle in one shared binaural room, with time of flight and level at the ears shown beneath.
           </figcaption>
         </figure>
 
         <figure class="shot-full">
-          <img class="shot" src="assets/software/resona-scalelab.jpg"
-               alt="Soundinator's Scale Lab: a microtonal tuning wheel with just-ratio and EDO grids, tuning presets and Scala import and export.">
+          <img class="shot" src="assets/software/soundinator-arrange.webp"
+               alt="Soundinator's producer: a preset library beside a multitrack timeline with harmonic guide, chord guide and global space lanes.">
           <figcaption>
-            The Scale Lab — design microtonal scales on a tuning wheel: N-EDO
-            grids, just-ratio intervals, per-degree roles and cents, with Scala
-            import / export.
-          </figcaption>
-        </figure>
-
-        <figure class="shot-full">
-          <img class="shot" src="assets/software/soundinator-community.jpg"
-               alt="Soundinator's community library: shared instrument cards with ratings, and the auditioner bar layering two shared patches into a live jam.">
-          <figcaption>
-            The community library — share instruments, sequences and
-            behaviours, rate what others post, and stack shared patches in the
-            auditioner to hear them jam together live.
+            The producer — arrange seed-reproducible takes on a multitrack timeline, with a global scale and global space that evolve through the piece.
           </figcaption>
         </figure>
 

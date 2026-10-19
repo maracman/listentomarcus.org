@@ -245,22 +245,7 @@ details.project[open] > summary {
   flex: 0 1 auto;
 }
 
-.badge-invite {
-  white-space: nowrap;
-  color: #9daecb;
-}
 
-.badge-code {
-  font: 0.92em/1 "SF Mono", Menlo, Consolas, monospace;
-  color: #f2b64e;
-  background: #0c1220;
-  border: 1px solid #35435f;
-  border-radius: 5px;
-  padding: 3px 8px;
-  letter-spacing: 0.05em;
-  white-space: nowrap;
-  user-select: all;
-}
 
 /* Early-access invite callout for Soundinator */
 .invite-callout {
@@ -271,12 +256,3 @@ details.project[open] > summary {
   background: #faf6ec;
 }
 
-.invite-code {
-  font: 0.95em/1 "SF Mono", Menlo, Consolas, monospace;
-  background: #f0e9d8;
-  border: 1px solid #e3ded1;
-  border-radius: 4px;
-  padding: 2px 7px;
-  letter-spacing: 0.04em;
-  user-select: all;
-}
