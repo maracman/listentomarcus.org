@@ -187,8 +187,11 @@ details.project[open] > summary {
   color: #555;
 }
 
-/* Site-wide badge pointing at the live Soundinator studio, with a cropped
-   slice of the studio's generative view behind the dark-and-amber text */
+/* Site-wide badge pointing at the live Soundinator studio. The backing is
+   built from the studio's own palette rather than a screenshot of it: its
+   near-black ground, the amber-to-sky wash it puts behind panels, the ring
+   motif from its play view, and the same two-layer fractal grain. It stays
+   sharp at any screen density and cannot fall out of date with the interface. */
 .site-badge {
   position: relative;
   display: flex;
@@ -196,19 +199,26 @@ details.project[open] > summary {
   gap: 7px;
   margin: 14px 0 0;
   padding: 11px 18px 12px;
-  border: 1px solid #2e3c55;
+  border: 1px solid rgba(245, 166, 35, 0.3);
   border-radius: 12px;
-  background-image: linear-gradient(
-      to top,
-      rgba(9, 13, 22, 0.72) 0%,
-      rgba(9, 13, 22, 0.36) 55%,
-      rgba(9, 13, 22, 0.18) 100%
+  background-color: #050810;
+  background-image:
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='g'><feTurbulence type='fractalNoise' baseFrequency='.95' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 .07 0'/></filter><rect width='220' height='220' filter='url(%23g)'/></svg>"),
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='640' height='640'><filter id='m'><feTurbulence type='fractalNoise' baseFrequency='.012' numOctaves='3' seed='7' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 .05 0'/></filter><rect width='640' height='640' filter='url(%23m)'/></svg>"),
+    repeating-radial-gradient(
+      circle at 84% 190%,
+      rgba(226, 232, 240, 0.07) 0 1px,
+      rgba(226, 232, 240, 0) 1px 22px
     ),
-    url("assets/software/soundinator-lanes.jpg");
-  background-size: 140% auto;
-  background-position: 92% 24%;
-  background-repeat: no-repeat;
-  color: #dbe4f2;
+    radial-gradient(
+      90% 240% at 86% 120%,
+      rgba(245, 166, 35, 0.3) 0%,
+      rgba(245, 166, 35, 0.07) 42%,
+      rgba(5, 8, 16, 0) 72%
+    ),
+    linear-gradient(90deg, rgba(245, 166, 35, 0.05), rgba(56, 189, 248, 0.05)),
+    linear-gradient(rgba(17, 25, 34, 0.98), rgba(6, 10, 15, 0.99));
+  color: #d7dee8;
   font-size: 0.93em;
   text-shadow: 0 1px 5px rgba(5, 8, 15, 0.85);
   box-shadow: 0 2px 12px rgba(16, 24, 42, 0.28);
@@ -223,9 +233,9 @@ details.project[open] > summary {
 }
 
 .site-badge a {
-  color: #f2b64e;
+  color: #ffd690;
   font-weight: 700;
-  text-decoration-color: rgba(242, 182, 78, 0.45);
+  text-decoration-color: rgba(255, 214, 144, 0.45);
   text-underline-offset: 2px;
 }
 
@@ -233,8 +243,9 @@ details.project[open] > summary {
   font: 700 0.72em/1 Georgia, serif;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: #f2b64e;
-  border: 1px solid rgba(242, 182, 78, 0.55);
+  color: #ffd79a;
+  background: rgba(245, 166, 35, 0.1);
+  border: 1px solid rgba(245, 166, 35, 0.45);
   border-radius: 999px;
   padding: 4px 9px 3px;
   white-space: nowrap;
