@@ -131,6 +131,8 @@ details.project[open] > summary {
 }
 
 .project-sub {
+  display: block;
+  margin-top: 2px;
   color: #555;
   font-size: 0.86em;
 }
